@@ -1,0 +1,294 @@
+
+<html>
+<head>
+<style>
+
+    h2 {
+        text-align: left;
+        font-family: Helvetica, Arial, sans-serif;
+    }
+    table {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+    th, td {
+        align: left;
+        padding: 5px;
+        text-align: left;
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 90%;
+    }
+    table tbody tr:hover {
+        background-color: #dddddd;
+    }
+    .wide {
+        width: 90%;
+    }
+
+</style>
+</head>
+<body>
+<h1>temp_SucideData.csv</h1><p>This report details the pipeline of steps taken to anonymize this dataset to meet or exceed GDPR standards. While this helper automates many processes of data anonymization, these reports should still be reviewed to ensure compliance. The data transformation and synthesis policies used by this helper are meant to provide a baseline and can be customized for the specific needs of your organization.</p></p><h2>Named Entity Recognition</h2>Processing time: 19.068 seconds<br>Samples: 100 records<br>Columns: 12 columns<br><h3>Entities detected</h3><p><b>Multiple PII types</b> detectected by named entity recognition.</p><div><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>column_name</th>
+      <th>count</th>
+      <th>approx_distinct_count</th>
+      <th>missing_count</th>
+      <th>entities_detected</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>country</td>
+      <td>100</td>
+      <td>1</td>
+      <td>0</td>
+      <td>location</td>
+    </tr>
+    <tr>
+      <td>year</td>
+      <td>100</td>
+      <td>9</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>sex</td>
+      <td>100</td>
+      <td>2</td>
+      <td>0</td>
+      <td>sex</td>
+    </tr>
+    <tr>
+      <td>age</td>
+      <td>100</td>
+      <td>6</td>
+      <td>0</td>
+      <td>age</td>
+    </tr>
+    <tr>
+      <td>suicides_no</td>
+      <td>100</td>
+      <td>23</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>population</td>
+      <td>100</td>
+      <td>99</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>suicides/100k pop</td>
+      <td>100</td>
+      <td>80</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>country-year</td>
+      <td>100</td>
+      <td>9</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>HDI for year</td>
+      <td>12</td>
+      <td>1</td>
+      <td>88</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>gdp_for_year</td>
+      <td>100</td>
+      <td>9</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>gdp_per_capita</td>
+      <td>100</td>
+      <td>9</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>generation</td>
+      <td>100</td>
+      <td>5</td>
+      <td>0</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table></div><h2>Transforms</h2>Processing time: 9.568 seconds<br>Record count: 27820<br><h3>Columns transformed</h3><p>The following fields were transformed in the dataset to encrypt or replace PII, as defined in the transform policy.<div><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>field_name</th>
+      <th>transform_type</th>
+      <th>transformed_count</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>country</td>
+      <td>passthrough</td>
+      <td>27820</td>
+    </tr>
+  </tbody>
+</table></div><h2>Synthesis</h2>Lines memorized: 0<br>Model training time: 549.392 seconds<br>Job status: completed<br>Job type: actgan<br><h3>Privacy report</h3><p>Privacy levels are <b>good</b>. A generative model was used with additional privacy enhancing technologies to provide protection against privacy attacks.</p><div><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>outlier_filter</th>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <th>similarity_filter</th>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <th>overfitting_protection</th>
+      <td>Disabled</td>
+    </tr>
+    <tr>
+      <th>differential_privacy</th>
+      <td>Disabled</td>
+    </tr>
+  </tbody>
+</table></div><br><h3>Accuracy report</h3><p>Synthetic data accuracy is <b>good</b>. This synthetic data captures the insights and distributions of the real world data that it is based on.</p><div><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>field</th>
+      <th>value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>synthetic_data_quality_score</td>
+      <td>88</td>
+    </tr>
+    <tr>
+      <td>field_correlation_stability</td>
+      <td>84</td>
+    </tr>
+    <tr>
+      <td>principal_component_stability</td>
+      <td>94</td>
+    </tr>
+    <tr>
+      <td>field_distribution_stability</td>
+      <td>89</td>
+    </tr>
+  </tbody>
+</table></div><br><h1>Results</h1>This report highlights values that have been changed between each stage of the anonymization pipeline on an example record. Values that have been changed are highlighted in Green.</p><div><style type="text/css">
+#T_8a559_row0_col2, #T_8a559_row1_col2, #T_8a559_row3_col2, #T_8a559_row4_col2, #T_8a559_row5_col2, #T_8a559_row6_col2, #T_8a559_row7_col2, #T_8a559_row8_col2, #T_8a559_row9_col2, #T_8a559_row10_col2, #T_8a559_row11_col2 {
+  background-color: #ABEBC6;
+}
+</style>
+<table id="T_8a559">
+  <thead>
+    <tr>
+      <th class="blank level0" >&nbsp;</th>
+      <th id="T_8a559_level0_col0" class="col_heading level0 col0" >training_data</th>
+      <th id="T_8a559_level0_col1" class="col_heading level0 col1" >deidentified_data</th>
+      <th id="T_8a559_level0_col2" class="col_heading level0 col2" >synthetic_data</th>
+    </tr>
+    <tr>
+      <th class="blank level1" >&nbsp;</th>
+      <th id="T_8a559_level1_col0" class="col_heading level1 col0" >0</th>
+      <th id="T_8a559_level1_col1" class="col_heading level1 col1" >0</th>
+      <th id="T_8a559_level1_col2" class="col_heading level1 col2" >0</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th id="T_8a559_level0_row0" class="row_heading level0 row0" >country</th>
+      <td id="T_8a559_row0_col0" class="data row0 col0" >Albania</td>
+      <td id="T_8a559_row0_col1" class="data row0 col1" >Albania</td>
+      <td id="T_8a559_row0_col2" class="data row0 col2" >Aruba</td>
+    </tr>
+    <tr>
+      <th id="T_8a559_level0_row1" class="row_heading level0 row1" >year</th>
+      <td id="T_8a559_row1_col0" class="data row1 col0" >1987</td>
+      <td id="T_8a559_row1_col1" class="data row1 col1" >1987</td>
+      <td id="T_8a559_row1_col2" class="data row1 col2" >2008</td>
+    </tr>
+    <tr>
+      <th id="T_8a559_level0_row2" class="row_heading level0 row2" >sex</th>
+      <td id="T_8a559_row2_col0" class="data row2 col0" >male</td>
+      <td id="T_8a559_row2_col1" class="data row2 col1" >male</td>
+      <td id="T_8a559_row2_col2" class="data row2 col2" >male</td>
+    </tr>
+    <tr>
+      <th id="T_8a559_level0_row3" class="row_heading level0 row3" >age</th>
+      <td id="T_8a559_row3_col0" class="data row3 col0" >15-24 years</td>
+      <td id="T_8a559_row3_col1" class="data row3 col1" >15-24 years</td>
+      <td id="T_8a559_row3_col2" class="data row3 col2" >5-14 years</td>
+    </tr>
+    <tr>
+      <th id="T_8a559_level0_row4" class="row_heading level0 row4" >suicides_no</th>
+      <td id="T_8a559_row4_col0" class="data row4 col0" >21</td>
+      <td id="T_8a559_row4_col1" class="data row4 col1" >21</td>
+      <td id="T_8a559_row4_col2" class="data row4 col2" >0</td>
+    </tr>
+    <tr>
+      <th id="T_8a559_level0_row5" class="row_heading level0 row5" >population</th>
+      <td id="T_8a559_row5_col0" class="data row5 col0" >312900</td>
+      <td id="T_8a559_row5_col1" class="data row5 col1" >312900</td>
+      <td id="T_8a559_row5_col2" class="data row5 col2" >404083</td>
+    </tr>
+    <tr>
+      <th id="T_8a559_level0_row6" class="row_heading level0 row6" >suicides/100k pop</th>
+      <td id="T_8a559_row6_col0" class="data row6 col0" >6.710000</td>
+      <td id="T_8a559_row6_col1" class="data row6 col1" >6.710000</td>
+      <td id="T_8a559_row6_col2" class="data row6 col2" >0.180000</td>
+    </tr>
+    <tr>
+      <th id="T_8a559_level0_row7" class="row_heading level0 row7" >country-year</th>
+      <td id="T_8a559_row7_col0" class="data row7 col0" >Albania1987</td>
+      <td id="T_8a559_row7_col1" class="data row7 col1" >Albania1987</td>
+      <td id="T_8a559_row7_col2" class="data row7 col2" >Japan2007</td>
+    </tr>
+    <tr>
+      <th id="T_8a559_level0_row8" class="row_heading level0 row8" >HDI for year</th>
+      <td id="T_8a559_row8_col0" class="data row8 col0" >nan</td>
+      <td id="T_8a559_row8_col1" class="data row8 col1" >nan</td>
+      <td id="T_8a559_row8_col2" class="data row8 col2" >0.904000</td>
+    </tr>
+    <tr>
+      <th id="T_8a559_level0_row9" class="row_heading level0 row9" > gdp_for_year</th>
+      <td id="T_8a559_row9_col0" class="data row9 col0" >2,156,624,900</td>
+      <td id="T_8a559_row9_col1" class="data row9 col1" >2,156,624,900</td>
+      <td id="T_8a559_row9_col2" class="data row9 col2" >4,515,264,514,431</td>
+    </tr>
+    <tr>
+      <th id="T_8a559_level0_row10" class="row_heading level0 row10" >gdp_per_capita</th>
+      <td id="T_8a559_row10_col0" class="data row10 col0" >796</td>
+      <td id="T_8a559_row10_col1" class="data row10 col1" >796</td>
+      <td id="T_8a559_row10_col2" class="data row10 col2" >45829</td>
+    </tr>
+    <tr>
+      <th id="T_8a559_level0_row11" class="row_heading level0 row11" >generation</th>
+      <td id="T_8a559_row11_col0" class="data row11 col0" >Generation X</td>
+      <td id="T_8a559_row11_col1" class="data row11 col1" >Generation X</td>
+      <td id="T_8a559_row11_col2" class="data row11 col2" >Generation Z</td>
+    </tr>
+  </tbody>
+</table>
+</div><br>
+</body>
+</html>

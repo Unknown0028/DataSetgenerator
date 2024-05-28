@@ -1,0 +1,389 @@
+Age,Gender,Marital Status,Occupation,Monthly Income,Educational Qualifications,Family size,latitude,longitude,Pin code,Output,Feedback,Unnamed: 12
+20,Female,Single,Student,No Income,Post Graduate,4,4b78db40,5a529c09,560001,Yes,Positive,Yes
+24,Female,Single,Student,Below Rs.10000,Graduate,3,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+22,Male,Single,Student,Below Rs.10000,Post Graduate,3,508b9024,8005c95e,560017,Yes,Negative ,Yes
+22,Female,Single,Student,No Income,Graduate,6,356958c6,751fdc22,560019,Yes,Positive,Yes
+22,Male,Single,Student,Below Rs.10000,Post Graduate,4,5d48f4cb,6ce5e58b,560010,Yes,Positive,Yes
+27,Female,Married,Employee,More than 50000,Post Graduate,2,6bc0f182,ec08ed8d,560103,Yes,Positive,Yes
+22,Male,Single,Student,No Income,Graduate,3,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+24,Female,Single,Student,No Income,Post Graduate,3,fb1f5167,55271476,560042,Yes,Positive,Yes
+23,Female,Single,Student,No Income,Post Graduate,2,4b78db40,5a529c09,560001,Yes,Positive,Yes
+23,Female,Single,Student,No Income,Post Graduate,4,dc1129e7,aa38426d,560048,Yes,Positive,Yes
+22,Female,Single,Student,No Income,Post Graduate,5,5d48f4cb,6ce5e58b,560010,Yes,Positive,Yes
+23,Male,Single,Student,Below Rs.10000,Post Graduate,2,d9b9bbbf,abe93489,560009,Yes,Negative ,Yes
+23,Male,Single,Student,No Income,Post Graduate,5,f670f4af,8bbac575,560078,Yes,Positive,Yes
+21,Male,Single,Student,No Income,Graduate,4,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+23,Female,Single,Self Employeed,10001 to 25000,Post Graduate,5,78894ade,93779753,560004,Yes,Positive,Yes
+24,Female,Single,Student,No Income,Post Graduate,6,3c91efe3,fcf4dfb6,560068,Yes,Positive,Yes
+28,Female,Single,Employee,25001 to 50000,Post Graduate,2,9ead8d41,719501d1,560038,Yes,Positive,Yes
+23,Female,Single,Student,No Income,Graduate,3,70516ef9,cff8dd39,560008,Yes,Negative ,Yes
+25,Male,Single,Student,No Income,Graduate,4,f670f4af,8bbac575,560078,Yes,Negative ,Yes
+21,Female,Single,Student,Below Rs.10000,Post Graduate,1,9ead8d41,719501d1,560038,Yes,Positive,Yes
+24,Male,Single,Student,No Income,Post Graduate,3,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+22,Male,Single,Student,No Income,Post Graduate,4,236703cf,f04aa8b8,560032,Yes,Positive,Yes
+22,Female,Single,Student,No Income,Graduate,4,f4192a17,065c5e39,560033,Yes,Positive,Yes
+23,Male,Single,Student,No Income,Graduate,4,2d6fa61c,281d1139,560021,Yes,Positive,Yes
+21,Male,Single,Student,Below Rs.10000,Post Graduate,3,6ca4c684,5099cdee,560085,Yes,Positive,Yes
+25,Male,Single,Student,No Income,Post Graduate,3,70516ef9,cff8dd39,560008,Yes,Positive,Yes
+22,Female,Single,Student,No Income,Post Graduate,5,4d2061aa,f0438a51,560050,Yes,Positive,Yes
+22,Male,Single,Student,No Income,Post Graduate,3,1c6edfd5,f20d1bd9,560098,Yes,Positive,Yes
+23,Female,Single,Employee,10001 to 25000,Graduate,3,dc1129e7,aa38426d,560048,Yes,Positive,Yes
+22,Male,Single,Student,Below Rs.10000,Post Graduate,4,94a7bb46,394ff994,560003,Yes,Positive,Yes
+22,Female,Single,Employee,10001 to 25000,Graduate,5,47467b56,a783e92e,560066,Yes,Positive,Yes
+22,Male,Single,Student,No Income,Post Graduate,4,9ead8d41,719501d1,560038,Yes,Positive,Yes
+25,Male,Married,Employee,More than 50000,Ph.D,4,792431cc,bc8550d7,560034,Yes,Positive,Yes
+22,Female,Single,Student,10001 to 25000,Post Graduate,5,5d48f4cb,6ce5e58b,560010,Yes,Positive,Yes
+22,Female,Single,Student,No Income,Post Graduate,2,8ee578a4,2f5f7f85,560102,Yes,Positive,Yes
+25,Male,Single,Student,10001 to 25000,Post Graduate,3,6ca4c684,5099cdee,560085,Yes,Positive,Yes
+25,Male,Single,Student,No Income,Post Graduate,5,d9b9bbbf,abe93489,560009,No,Positive,No
+32,Female,Prefer not to say,House wife,No Income,Graduate,5,70516ef9,cff8dd39,560008,Yes,Negative ,Yes
+23,Female,Single,Student,No Income,Post Graduate,3,78894ade,93779753,560004,Yes,Positive,Yes
+23,Female,Single,Student,No Income,Post Graduate,4,f670f4af,8bbac575,560078,Yes,Positive,Yes
+30,Male,Married,Self Employeed,More than 50000,Uneducated,4,0cc33afd,bf715f9b,560025,Yes,Negative ,Yes
+23,Male,Single,Student,No Income,Graduate,3,4f532ded,253f58f6,560026,Yes,Positive,Yes
+23,Male,Single,Student,No Income,Post Graduate,4,2d6fa61c,281d1139,560021,Yes,Positive,Yes
+22,Female,Single,Student,No Income,Post Graduate,5,5d48f4cb,6ce5e58b,560010,Yes,Positive,Yes
+22,Male,Single,Student,No Income,Graduate,5,5d48f4cb,6ce5e58b,560010,Yes,Positive,Yes
+27,Female,Married,Self Employeed,10001 to 25000,Post Graduate,2,792431cc,bc8550d7,560034,Yes,Positive,Yes
+24,Female,Single,Student,No Income,Post Graduate,3,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+23,Male,Single,Student,No Income,Post Graduate,2,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+23,Female,Single,Student,No Income,Graduate,3,70516ef9,cff8dd39,560008,Yes,Negative ,Yes
+22,Female,Single,Student,10001 to 25000,Post Graduate,5,5d48f4cb,6ce5e58b,560010,Yes,Positive,Yes
+23,Female,Single,Student,No Income,Graduate,5,e89abcd9,b8acef3e,560043,Yes,Positive,Yes
+23,Female,Single,Student,No Income,Post Graduate,2,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+24,Male,Single,Student,No Income,Post Graduate,3,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+25,Male,Single,Student,No Income,Post Graduate,2,e98d79ff,d00875dd,560002,Yes,Positive,Yes
+22,Male,Single,Student,No Income,Post Graduate,3,6ca4c684,5099cdee,560085,Yes,Positive,Yes
+28,Female,Married,Student,No Income,Graduate,2,c66ffcb7,27d8bb01,560086,Yes,Positive,Yes
+22,Female,Single,Student,No Income,Post Graduate,1,9593f3fb,6b6c32cb,560076,Yes,Positive,Yes
+24,Female,Single,Student,No Income,Graduate,3,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+31,Male,Married,Employee,More than 50000,Ph.D,5,8ee578a4,2f5f7f85,560102,Yes,Positive,Yes
+25,Male,Single,Student,No Income,Post Graduate,4,c66ffcb7,27d8bb01,560086,Yes,Positive,Yes
+23,Male,Single,Student,No Income,Post Graduate,5,f670f4af,8bbac575,560078,Yes,Positive,Yes
+22,Male,Single,Student,No Income,Post Graduate,3,9593f3fb,6b6c32cb,560076,Yes,Positive,Yes
+23,Male,Single,Student,25001 to 50000,Post Graduate,1,87050ad8,db1f11a7,560096,Yes,Positive,Yes
+23,Male,Single,Student,No Income,Graduate,4,b401a42c,402b31e9,560029,Yes,Positive,Yes
+23,Female,Single,Student,No Income,Post Graduate,2,94a7bb46,394ff994,560003,Yes,Positive,Yes
+25,Male,Single,Student,No Income,Post Graduate,6,a995040e,079f99d5,560046,Yes,Positive,Yes
+24,Male,Single,Employee,10001 to 25000,Graduate,4,cf20428e,3f6af0dd,560030,Yes,Positive,Yes
+23,Female,Single,Student,No Income,Post Graduate,4,59b4d441,afcd006d,560024,Yes,Positive,Yes
+23,Female,Single,Student,No Income,Post Graduate,4,59b4d441,afcd006d,560024,Yes,Positive,Yes
+24,Female,Married,Employee,More than 50000,Ph.D,4,78894ade,93779753,560004,Yes,Positive,Yes
+22,Male,Single,Student,No Income,Graduate,4,fc8774a5,68dc5893,560020,Yes,Positive,Yes
+24,Female,Single,Student,10001 to 25000,Post Graduate,3,88f98ce1,65c155b1,560028,No,Positive,No
+25,Female,Single,Student,No Income,Post Graduate,3,4b78db40,5a529c09,560001,Yes,Positive,Yes
+23,Male,Single,Student,No Income,Post Graduate,2,9593f3fb,6b6c32cb,560076,Yes,Positive,Yes
+26,Male,Single,Student,No Income,Post Graduate,4,94a7bb46,394ff994,560003,Yes,Positive,Yes
+24,Female,Single,Student,25001 to 50000,Post Graduate,3,556836ea,aa564327,560064,Yes,Positive,Yes
+26,Male,Single,Student,No Income,Post Graduate,4,9faae012,a18ddc3a,560036,Yes,Positive,Yes
+21,Male,Single,Student,No Income,Graduate,4,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+22,Female,Single,Student,No Income,Post Graduate,3,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+24,Male,Single,Student,No Income,Post Graduate,5,11dbb29f,02efb481,560011,Yes,Positive,Yes
+24,Male,Single,Student,10001 to 25000,Post Graduate,4,accd0ac7,d2a734dd,560061,Yes,Positive,Yes
+23,Female,Single,Student,No Income,Post Graduate,3,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+23,Male,Single,Student,No Income,Post Graduate,3,b401a42c,402b31e9,560029,Yes,Positive,Yes
+22,Male,Single,Student,No Income,Post Graduate,3,78894ade,93779753,560004,Yes,Positive,Yes
+23,Male,Single,Student,No Income,Post Graduate,3,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+24,Female,Single,Student,No Income,Post Graduate,4,9ead8d41,719501d1,560038,Yes,Positive,Yes
+24,Male,Single,Student,No Income,Post Graduate,5,11dbb29f,02efb481,560011,Yes,Positive,Yes
+25,Male,Single,Student,No Income,Graduate,1,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+25,Male,Single,Student,No Income,Post Graduate,5,d9b9bbbf,abe93489,560009,No,Positive,No
+28,Male,Married,Self Employeed,10001 to 25000,Graduate,2,7741335f,3c4f7198,560022,No,Negative ,No
+27,Female,Prefer not to say,Employee,25001 to 50000,Post Graduate,5,7741335f,3c4f7198,560022,No,Positive,No
+26,Male,Single,Self Employeed,10001 to 25000,Ph.D,1,47467b56,a783e92e,560066,No,Positive,No
+22,Male,Single,Student,No Income,Post Graduate,2,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+24,Female,Single,Student,No Income,Post Graduate,3,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+23,Male,Single,Student,No Income,Post Graduate,1,808e3a4c,a6cdf8a3,560027,Yes,Positive,Yes
+25,Male,Single,Student,No Income,Graduate,1,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+23,Female,Single,Student,No Income,Graduate,5,e89abcd9,b8acef3e,560043,Yes,Positive,Yes
+23,Female,Single,Student,No Income,Graduate,5,e89abcd9,b8acef3e,560043,Yes,Positive,Yes
+26,Male,Married,Employee,25001 to 50000,Graduate,5,efbb0ed1,68bb6623,560007,No,Positive,No
+32,Female,Married,House wife,No Income,Uneducated,3,0e7ed87b,d320a688,560012,No,Positive,No
+24,Female,Single,Student,10001 to 25000,Post Graduate,3,88f98ce1,65c155b1,560028,No,Positive,No
+23,Male,Single,Student,No Income,Post Graduate,2,cf20428e,3f6af0dd,560030,Yes,Positive,Yes
+22,Female,Single,Employee,10001 to 25000,Graduate,3,47467b56,a783e92e,560066,Yes,Positive,Yes
+24,Female,Single,Student,No Income,Ph.D,3,78894ade,93779753,560004,Yes,Positive,Yes
+26,Male,Single,Employee,25001 to 50000,Graduate,2,792431cc,bc8550d7,560034,Yes,Negative ,Yes
+28,Male,Married,Employee,More than 50000,Graduate,3,47467b56,a783e92e,560066,No,Positive,No
+26,Male,Single,Employee,More than 50000,Post Graduate,2,47467b56,a783e92e,560066,No,Positive,No
+25,Male,Single,Student,No Income,Post Graduate,1,b401a42c,402b31e9,560029,Yes,Positive,Yes
+25,Male,Single,Employee,Below Rs.10000,Graduate,2,47467b56,a783e92e,560066,No,Positive,No
+18,Male,Single,Student,No Income,Graduate,5,e98d79ff,d00875dd,560002,Yes,Positive,Yes
+21,Male,Single,Student,No Income,Post Graduate,4,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+25,Male,Single,Student,No Income,Post Graduate,1,b401a42c,402b31e9,560029,Yes,Positive,Yes
+25,Male,Single,Student,Below Rs.10000,Post Graduate,2,2d6fa61c,281d1139,560021,Yes,Positive,Yes
+23,Female,Single,Student,No Income,Graduate,5,e89abcd9,b8acef3e,560043,Yes,Positive,Yes
+23,Male,Single,Employee,10001 to 25000,Post Graduate,2,5d48f4cb,6ce5e58b,560010,Yes,Positive,Yes
+25,Female,Married,Employee,25001 to 50000,Graduate,4,508b9024,8005c95e,560017,No,Negative ,No
+31,Female,Married,House wife,No Income,School,5,7741335f,3c4f7198,560022,Yes,Positive,Yes
+24,Male,Prefer not to say,Self Employeed,More than 50000,Ph.D,2,8fe7927d,cfd5146d,560006,No,Positive,No
+32,Female,Married,Employee,25001 to 50000,Graduate,5,792431cc,bc8550d7,560034,Yes,Positive,Yes
+25,Male,Single,Employee,25001 to 50000,Graduate,3,4b78db40,5a529c09,560001,Yes,Positive,Yes
+27,Female,Married,Self Employeed,More than 50000,Graduate,5,4b78db40,5a529c09,560001,No,Positive,No
+26,Male,Single,Self Employeed,25001 to 50000,Graduate,3,4b78db40,5a529c09,560001,Yes,Positive,Yes
+26,Female,Single,Self Employeed,25001 to 50000,Post Graduate,3,e98d79ff,d00875dd,560002,Yes,Positive,Yes
+32,Male,Married,Employee,More than 50000,Ph.D,5,e98d79ff,d00875dd,560002,Yes,Negative ,Yes
+24,Male,Married,Self Employeed,More than 50000,Ph.D,6,e98d79ff,d00875dd,560002,No,Negative ,No
+27,Female,Married,Self Employeed,25001 to 50000,Graduate,3,e98d79ff,d00875dd,560002,Yes,Positive,Yes
+23,Male,Single,Student,No Income,Post Graduate,3,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+25,Male,Single,Student,No Income,Post Graduate,4,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+23,Male,Single,Student,No Income,Post Graduate,3,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+23,Female,Single,Student,No Income,Post Graduate,4,59b4d441,afcd006d,560024,Yes,Positive,Yes
+28,Male,Married,Employee,More than 50000,Post Graduate,3,94a7bb46,394ff994,560003,Yes,Positive,Yes
+32,Female,Married,Employee,More than 50000,Graduate,1,94a7bb46,394ff994,560003,No,Positive,No
+23,Male,Single,Student,No Income,Post Graduate,2,94a7bb46,394ff994,560003,Yes,Positive,Yes
+19,Male,Single,Student,No Income,Graduate,2,94a7bb46,394ff994,560003,No,Negative ,No
+19,Female,Single,Student,No Income,Graduate,4,48ec3fca,75ce67f9,560047,Yes,Positive,Yes
+27,Female,Married,Employee,25001 to 50000,Post Graduate,2,47467b56,a783e92e,560066,No,Positive,No
+25,Male,Single,Self Employeed,25001 to 50000,Graduate,3,e5c5c829,ee2bee62,560005,Yes,Positive,Yes
+33,Male,Married,Employee,More than 50000,Ph.D,5,e5c5c829,ee2bee62,560005,No,Negative ,No
+26,Female,Single,Employee,More than 50000,Graduate,3,e5c5c829,ee2bee62,560005,Yes,Positive,Yes
+22,Female,Single,Student,Below Rs.10000,Post Graduate,4,b401a42c,402b31e9,560029,Yes,Positive,Yes
+23,Male,Single,Student,No Income,Post Graduate,3,556836ea,aa564327,560064,No,Positive,No
+22,Female,Single,Student,No Income,Graduate,3,87050ad8,db1f11a7,560096,Yes,Negative ,Yes
+25,Male,Married,Employee,25001 to 50000,Graduate,2,e5c5c829,ee2bee62,560005,Yes,Positive,Yes
+30,Female,Married,House wife,No Income,School,5,e5c5c829,ee2bee62,560005,Yes,Positive,Yes
+24,Male,Single,Student,No Income,Post Graduate,3,8fe7927d,cfd5146d,560006,No,Negative ,No
+25,Male,Single,Employee,10001 to 25000,Post Graduate,3,8fe7927d,cfd5146d,560006,Yes,Positive,Yes
+23,Male,Single,Student,More than 50000,Post Graduate,3,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+24,Female,Single,Student,No Income,Post Graduate,4,162d0a4f,48d24285,560073,Yes,Positive,Yes
+32,Male,Married,Employee,10001 to 25000,Graduate,4,9ead8d41,719501d1,560038,Yes,Positive,Yes
+22,Male,Single,Student,No Income,Post Graduate,4,fc8774a5,68dc5893,560020,Yes,Positive,Yes
+23,Male,Single,Student,More than 50000,Post Graduate,3,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+23,Female,Single,Student,No Income,Post Graduate,4,59b4d441,afcd006d,560024,Yes,Positive,Yes
+20,Male,Single,Student,No Income,Graduate,2,efbb0ed1,68bb6623,560007,Yes,Positive,Yes
+21,Male,Single,Student,No Income,Graduate,2,efbb0ed1,68bb6623,560007,Yes,Positive,Yes
+24,Female,Married,Self Employeed,10001 to 25000,Graduate,5,efbb0ed1,68bb6623,560007,Yes,Positive,Yes
+23,Female,Single,Student,No Income,Post Graduate,4,59b4d441,afcd006d,560024,Yes,Positive,Yes
+25,Male,Single,Employee,25001 to 50000,Post Graduate,3,5d48f4cb,6ce5e58b,560010,Yes,Positive,Yes
+32,Female,Married,House wife,No Income,Graduate,3,5d48f4cb,6ce5e58b,560010,Yes,Positive,Yes
+27,Male,Married,Employee,More than 50000,Ph.D,5,5d48f4cb,6ce5e58b,560010,No,Negative ,No
+20,Female,Single,Student,No Income,Graduate,2,11dbb29f,02efb481,560011,Yes,Positive,Yes
+21,Male,Single,Student,No Income,Graduate,2,11dbb29f,02efb481,560011,Yes,Positive,Yes
+26,Male,Single,Employee,More than 50000,Post Graduate,3,11dbb29f,02efb481,560011,No,Negative ,No
+25,Male,Single,Employee,10001 to 25000,Graduate,4,8250b614,cc47ded2,560016,Yes,Positive,Yes
+26,Male,Single,Employee,25001 to 50000,Post Graduate,3,0e7ed87b,d320a688,560012,Yes,Positive,Yes
+26,Female,Married,Employee,25001 to 50000,Graduate,3,0e7ed87b,d320a688,560012,Yes,Positive,Yes
+27,Male,Single,Employee,More than 50000,Ph.D,4,e69bef3c,bad2533d,560013,No,Positive,No
+27,Female,Single,Student,No Income,Ph.D,5,e69bef3c,bad2533d,560013,No,Negative ,No
+24,Female,Single,Student,No Income,Post Graduate,5,0d3d4ff8,00e5962d,560051,Yes,Positive,Yes
+25,Male,Married,Self Employeed,More than 50000,School,2,42a18c16,b864d8f3,560015,Yes,Positive,Yes
+20,Male,Single,Student,No Income,Graduate,2,42a18c16,b864d8f3,560015,No,Negative ,No
+22,Male,Single,Student,No Income,Post Graduate,1,42a18c16,b864d8f3,560015,Yes,Positive,Yes
+26,Female,Married,Student,Below Rs.10000,Ph.D,3,8250b614,cc47ded2,560016,Yes,Positive,Yes
+27,Male,Prefer not to say,Employee,25001 to 50000,Post Graduate,1,8250b614,cc47ded2,560016,Yes,Positive,Yes
+25,Female,Single,Student,No Income,Post Graduate,3,508b9024,8005c95e,560017,Yes,Positive,Yes
+24,Male,Single,Employee,Below Rs.10000,Graduate,2,508b9024,8005c95e,560017,Yes,Positive,Yes
+23,Female,Single,Employee,10001 to 25000,Graduate,6,508b9024,8005c95e,560017,Yes,Positive,Yes
+22,Male,Single,Student,No Income,Graduate,2,6ee1922d,d5854358,560018,No,Positive,No
+26,Male,Married,Self Employeed,More than 50000,Post Graduate,3,6ee1922d,d5854358,560018,No,Negative ,No
+26,Male,Single,Employee,Below Rs.10000,Post Graduate,1,6ee1922d,d5854358,560018,Yes,Negative ,Yes
+25,Female,Married,Self Employeed,25001 to 50000,Post Graduate,3,6ee1922d,d5854358,560018,No,Positive,No
+29,Female,Married,Employee,More than 50000,Graduate,3,6ee1922d,d5854358,560018,No,Positive,No
+23,Male,Single,Student,Below Rs.10000,Graduate,3,7bb6e63c,20440253,560109,Yes,Negative ,Yes
+22,Female,Single,Employee,25001 to 50000,Graduate,4,47467b56,a783e92e,560066,Yes,Positive,Yes
+22,Male,Single,Student,No Income,Graduate,2,fc8774a5,68dc5893,560020,No,Positive,No
+32,Female,Married,House wife,No Income,School,5,fc8774a5,68dc5893,560020,Yes,Positive,Yes
+28,Male,Married,Employee,More than 50000,Post Graduate,1,2d6fa61c,281d1139,560021,Yes,Positive,Yes
+22,Male,Single,Student,No Income,Post Graduate,2,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+25,Male,Single,Employee,10001 to 25000,Graduate,2,b1f0dd3b,346a28fc,560023,Yes,Positive,Yes
+26,Female,Married,Employee,25001 to 50000,Post Graduate,2,b1f0dd3b,346a28fc,560023,No,Negative ,No
+31,Male,Married,Self Employeed,More than 50000,School,6,59b4d441,afcd006d,560024,Yes,Positive,Yes
+24,Male,Single,Student,No Income,Post Graduate,3,59b4d441,afcd006d,560024,No,Negative ,No
+24,Male,Single,Employee,25001 to 50000,Post Graduate,2,0cc33afd,bf715f9b,560025,Yes,Positive,Yes
+31,Female,Married,Employee,More than 50000,Ph.D,5,0cc33afd,bf715f9b,560025,Yes,Positive,Yes
+26,Male,Single,Employee,25001 to 50000,Graduate,2,b401a42c,402b31e9,560029,Yes,Positive,Yes
+24,Female,Married,Self Employeed,More than 50000,Graduate,2,b401a42c,402b31e9,560029,Yes,Positive,Yes
+22,Female,Single,Student,No Income,Graduate,3,b401a42c,402b31e9,560029,Yes,Positive,Yes
+19,Male,Single,Student,No Income,Graduate,6,cf20428e,3f6af0dd,560030,Yes,Positive,Yes
+25,Male,Married,Employee,More than 50000,Post Graduate,6,cf20428e,3f6af0dd,560030,Yes,Positive,Yes
+23,Female,Married,House wife,No Income,School,6,cf20428e,3f6af0dd,560030,Yes,Positive,Yes
+23,Female,Single,Student,No Income,Graduate,2,236703cf,f04aa8b8,560032,No,Negative ,No
+23,Male,Single,Student,No Income,Post Graduate,2,792431cc,bc8550d7,560034,Yes,Positive,Yes
+24,Male,Single,Student,No Income,Post Graduate,5,591e7df8,d2a734dd,560104,Yes,Positive,Yes
+22,Female,Single,Employee,25001 to 50000,Graduate,4,9593f3fb,6b6c32cb,560076,Yes,Positive,Yes
+26,Male,Married,Employee,More than 50000,Graduate,4,9faae012,a18ddc3a,560036,Yes,Positive,Yes
+25,Female,Single,Student,No Income,Ph.D,3,9faae012,a18ddc3a,560036,Yes,Positive,Yes
+20,Male,Single,Student,No Income,Graduate,2,792431cc,bc8550d7,560034,Yes,Positive,Yes
+29,Male,Married,Employee,25001 to 50000,Graduate,4,792431cc,bc8550d7,560034,No,Negative ,No
+23,Female,Single,Student,No Income,Graduate,1,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+25,Male,Single,Self Employeed,More than 50000,Graduate,2,9ead8d41,719501d1,560038,Yes,Positive,Yes
+29,Female,Married,Employee,25001 to 50000,Graduate,4,9ead8d41,719501d1,560038,No,Negative ,No
+27,Male,Married,Self Employeed,25001 to 50000,Graduate,6,26ae0d95,e9d95b73,560041,No,Negative ,No
+25,Male,Single,Self Employeed,10001 to 25000,Graduate,3,e89abcd9,b8acef3e,560043,Yes,Positive,Yes
+21,Male,Single,Student,No Income,Graduate,2,a995040e,079f99d5,560046,No,Negative ,No
+23,Male,Single,Student,No Income,Graduate,3,be7d102a,a7ad2f72,560049,Yes,Positive,Yes
+24,Female,Single,Employee,10001 to 25000,Post Graduate,4,11dbb29f,02efb481,560011,Yes,Positive,Yes
+32,Male,Married,Self Employeed,10001 to 25000,School,3,70516ef9,cff8dd39,560008,Yes,Negative ,Yes
+28,Male,Married,Employee,25001 to 50000,Post Graduate,5,ebbcef5c,4b7c2c47,560045,Yes,Positive,Yes
+26,Male,Single,Employee,10001 to 25000,Graduate,2,26ae0d95,e9d95b73,560041,No,Negative ,No
+31,Female,Married,House wife,No Income,Graduate,5,042b4cae,8a99b4aa,560055,Yes,Positive,Yes
+27,Female,Married,Self Employeed,25001 to 50000,Graduate,3,042b4cae,8a99b4aa,560055,Yes,Positive,Yes
+21,Female,Single,Student,No Income,Post Graduate,1,26ae0d95,e9d95b73,560041,Yes,Positive,Yes
+23,Female,Single,Student,No Income,Graduate,2,76d45981,97adf36d,560060,No,Positive,No
+26,Male,Married,Employee,10001 to 25000,Graduate,4,76d45981,97adf36d,560060,No,Positive,No
+32,Male,Married,Employee,More than 50000,Graduate,5,accd0ac7,d2a734dd,560061,Yes,Positive,Yes
+25,Female,Married,Student,No Income,Post Graduate,2,e88f8db9,04964234,560062,Yes,Positive,Yes
+28,Male,Single,Self Employeed,10001 to 25000,Post Graduate,2,8e59b4ce,962cd56b,560070,Yes,Positive,Yes
+21,Female,Single,Student,No Income,Post Graduate,3,8e59b4ce,962cd56b,560070,Yes,Positive,Yes
+24,Male,Single,Student,No Income,Post Graduate,2,e9abb770,43b08bee,560075,Yes,Positive,Yes
+26,Female,Married,Self Employeed,10001 to 25000,Graduate,5,e9abb770,43b08bee,560075,No,Negative ,No
+32,Male,Married,Employee,25001 to 50000,Graduate,3,e9abb770,43b08bee,560075,Yes,Positive,Yes
+29,Male,Single,Self Employeed,More than 50000,Graduate,6,9593f3fb,6b6c32cb,560076,Yes,Positive,Yes
+21,Male,Single,Student,No Income,Graduate,5,9ead8d41,719501d1,560038,Yes,Positive,Yes
+24,Female,Single,Self Employeed,25001 to 50000,Post Graduate,3,a736df38,2b8c5288,560080,No,Negative ,No
+26,Male,Prefer not to say,Self Employeed,More than 50000,Post Graduate,2,a736df38,2b8c5288,560080,Yes,Positive,Yes
+25,Male,Married,Employee,More than 50000,Ph.D,3,6ca4c684,5099cdee,560085,Yes,Positive,Yes
+29,Male,Single,Employee,25001 to 50000,Graduate,3,ee25b821,ed5d8f40,560092,No,Negative ,No
+22,Male,Single,Student,No Income,Graduate,3,87050ad8,db1f11a7,560096,Yes,Positive,Yes
+24,Male,Single,Student,No Income,Graduate,2,808e3a4c,a6cdf8a3,560027,Yes,Positive,Yes
+27,Male,Married,Employee,25001 to 50000,Graduate,2,9593f3fb,6b6c32cb,560076,Yes,Positive,Yes
+23,Female,Single,Student,No Income,Post Graduate,3,3cd4528b,efa85c93,560095,No,Positive,No
+32,Male,Married,Employee,More than 50000,Post Graduate,6,3cd4528b,efa85c93,560095,Yes,Positive,Yes
+22,Female,Single,Student,No Income,Graduate,2,3cd4528b,efa85c93,560095,Yes,Positive,Yes
+28,Male,Married,Employee,25001 to 50000,Graduate,3,3cd4528b,efa85c93,560095,Yes,Positive,Yes
+23,Female,Single,Student,No Income,Post Graduate,2,87050ad8,db1f11a7,560096,Yes,Positive,Yes
+30,Male,Married,Self Employeed,More than 50000,Graduate,1,78e180c5,6a5e1bc0,560097,No,Negative ,No
+21,Male,Single,Student,No Income,Graduate,3,ee25b821,ed5d8f40,560092,Yes,Positive,Yes
+26,Female,Married,Employee,Below Rs.10000,Graduate,6,ffe8446e,c26efa95,560093,No,Negative ,No
+25,Male,Single,Self Employeed,More than 50000,School,3,ffe8446e,c26efa95,560093,Yes,Positive,Yes
+31,Male,Prefer not to say,Employee,Below Rs.10000,Graduate,1,84994198,4b1bc024,560091,No,Negative ,No
+23,Female,Single,Employee,25001 to 50000,Post Graduate,2,3d8dcea7,c3a4d639,560100,Yes,Positive,Yes
+29,Female,Married,Employee,25001 to 50000,Ph.D,3,3d8dcea7,c3a4d639,560100,Yes,Positive,Yes
+21,Male,Single,Student,No Income,Graduate,6,3d8dcea7,c3a4d639,560100,Yes,Positive,Yes
+20,Male,Single,Student,No Income,Graduate,3,6bc0f182,ec08ed8d,560103,Yes,Positive,Yes
+22,Male,Single,Employee,10001 to 25000,Graduate,2,6bc0f182,ec08ed8d,560103,Yes,Positive,Yes
+30,Female,Married,House wife,No Income,School,6,fb1f5167,55271476,560042,No,Positive,No
+27,Male,Married,Self Employeed,More than 50000,Graduate,3,638ae54b,dfa0183d,560079,Yes,Positive,Yes
+23,Male,Single,Student,No Income,Post Graduate,2,d9b9bbbf,abe93489,560009,No,Negative ,No
+30,Male,Married,Self Employeed,25001 to 50000,School,6,69968f84,e4fed836,560059,No,Negative ,No
+23,Male,Single,Student,No Income,Post Graduate,3,393d07d8,c3bf383c,560067,Yes,Positive,Yes
+28,Female,Married,Employee,25001 to 50000,Post Graduate,6,393d07d8,c3bf383c,560067,No,Negative ,No
+30,Male,Married,Self Employeed,More than 50000,Graduate,6,393d07d8,c3bf383c,560067,Yes,Positive,Yes
+24,Female,Married,Employee,25001 to 50000,Post Graduate,2,6ee1922d,d5854358,560018,Yes,Negative ,Yes
+21,Male,Single,Student,No Income,Graduate,2,6ee1922d,d5854358,560018,No,Negative ,No
+23,Female,Prefer not to say,Employee,10001 to 25000,Graduate,3,fc8774a5,68dc5893,560020,No,Negative ,No
+25,Male,Married,Self Employeed,More than 50000,Post Graduate,4,e89abcd9,b8acef3e,560043,Yes,Positive,Yes
+24,Female,Single,Employee,25001 to 50000,Graduate,2,3c91efe3,fcf4dfb6,560068,Yes,Positive,Yes
+26,Male,Married,Employee,10001 to 25000,Graduate,3,3c91efe3,fcf4dfb6,560068,No,Negative ,No
+25,Female,Single,Employee,25001 to 50000,Post Graduate,2,393d07d8,c3bf383c,560067,Yes,Positive,Yes
+22,Male,Single,Student,25001 to 50000,Graduate,3,9ead8d41,719501d1,560038,Yes,Positive,Yes
+26,Female,Single,Employee,25001 to 50000,Post Graduate,2,9ead8d41,719501d1,560038,Yes,Positive,Yes
+23,Male,Single,Employee,10001 to 25000,Graduate,2,2d6fa61c,281d1139,560021,Yes,Positive,Yes
+21,Female,Single,Employee,Below Rs.10000,Graduate,2,2d6fa61c,281d1139,560021,No,Negative ,No
+25,Male,Married,Self Employeed,25001 to 50000,Graduate,3,808e3a4c,a6cdf8a3,560027,Yes,Positive,Yes
+24,Female,Married,Employee,10001 to 25000,Post Graduate,2,808e3a4c,a6cdf8a3,560027,Yes,Positive,Yes
+22,Male,Married,Student,No Income,Graduate,2,67de33fd,b39aad88,560014,Yes,Positive,Yes
+23,Female,Single,Student,No Income,Post Graduate,4,59b4d441,afcd006d,560024,Yes,Positive,Yes
+24,Male,Married,Employee,More than 50000,Post Graduate,3,f498872a,a4f09c45,560056,Yes,Positive,Yes
+22,Female,Single,Student,No Income,Graduate,2,f498872a,a4f09c45,560056,Yes,Positive,Yes
+30,Male,Married,Employee,More than 50000,Graduate,5,f4ba0f69,c579e405,560072,No,Negative ,No
+23,Female,Prefer not to say,Employee,10001 to 25000,Graduate,4,9faae012,a18ddc3a,560036,Yes,Positive,Yes
+19,Male,Single,Student,No Income,Graduate,6,9faae012,a18ddc3a,560036,Yes,Positive,Yes
+21,Female,Single,Student,No Income,Graduate,2,a736df38,2b8c5288,560080,Yes,Positive,Yes
+23,Male,Single,Student,No Income,Graduate,4,a736df38,2b8c5288,560080,Yes,Positive,Yes
+24,Female,Single,Employee,25001 to 50000,Graduate,3,3c91efe3,fcf4dfb6,560068,Yes,Positive,Yes
+26,Female,Married,Employee,10001 to 25000,Post Graduate,2,fb1f5167,55271476,560042,No,Positive,No
+26,Female,Single,Student,No Income,Ph.D,2,b1f0dd3b,346a28fc,560023,Yes,Positive,Yes
+25,Female,Single,Student,10001 to 25000,Graduate,2,b1f0dd3b,346a28fc,560023,Yes,Positive,Yes
+28,Female,Married,Employee,25001 to 50000,Graduate,5,b1f0dd3b,346a28fc,560023,No,Negative ,No
+25,Female,Single,Student,No Income,Post Graduate,3,67de33fd,b39aad88,560014,Yes,Positive,Yes
+20,Female,Single,Student,No Income,Graduate,2,67de33fd,b39aad88,560014,Yes,Positive,Yes
+27,Female,Married,Self Employeed,More than 50000,Graduate,6,67de33fd,b39aad88,560014,No,Positive,No
+25,Female,Married,Employee,25001 to 50000,Graduate,3,42a18c16,b864d8f3,560015,No,Positive,No
+24,Female,Single,Student,No Income,Post Graduate,5,42a18c16,b864d8f3,560015,No,Negative ,No
+25,Female,Married,Employee,More than 50000,Graduate,1,d9b9bbbf,abe93489,560009,No,Negative ,No
+25,Female,Prefer not to say,Employee,25001 to 50000,Post Graduate,3,e5c5c829,ee2bee62,560005,No,Negative ,No
+24,Female,Married,Student,Below Rs.10000,Ph.D,5,42a18c16,b864d8f3,560015,Yes,Positive,Yes
+24,Male,Single,Student,No Income,Post Graduate,3,42a18c16,b864d8f3,560015,Yes,Positive,Yes
+22,Male,Single,Employee,10001 to 25000,Graduate,1,8fe7927d,cfd5146d,560006,Yes,Positive,Yes
+28,Male,Single,Employee,25001 to 50000,Post Graduate,2,8fe7927d,cfd5146d,560006,No,Negative ,No
+25,Female,Single,Employee,More than 50000,Post Graduate,6,0e7ed87b,d320a688,560012,No,Negative ,No
+22,Male,Single,Student,Below Rs.10000,Post Graduate,3,508b9024,8005c95e,560017,Yes,Negative ,Yes
+22,Female,Single,Student,No Income,Graduate,6,356958c6,751fdc22,560019,Yes,Positive,Yes
+22,Male,Single,Student,Below Rs.10000,Post Graduate,4,5d48f4cb,6ce5e58b,560010,Yes,Positive,Yes
+27,Female,Married,Employee,More than 50000,Post Graduate,2,6bc0f182,ec08ed8d,560103,Yes,Positive,Yes
+22,Male,Single,Student,No Income,Graduate,3,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+24,Female,Single,Student,No Income,Post Graduate,3,fb1f5167,55271476,560042,Yes,Positive,Yes
+23,Female,Single,Student,No Income,Post Graduate,2,4b78db40,5a529c09,560001,Yes,Positive,Yes
+23,Female,Single,Student,No Income,Post Graduate,4,dc1129e7,aa38426d,560048,Yes,Positive,Yes
+22,Female,Single,Student,No Income,Post Graduate,5,5d48f4cb,6ce5e58b,560010,Yes,Positive,Yes
+23,Male,Single,Student,Below Rs.10000,Post Graduate,2,d9b9bbbf,abe93489,560009,Yes,Negative ,Yes
+32,Male,Married,Employee,More than 50000,Graduate,5,accd0ac7,d2a734dd,560061,Yes,Positive,Yes
+25,Female,Married,Student,No Income,Post Graduate,2,e88f8db9,04964234,560062,Yes,Positive,Yes
+28,Male,Single,Self Employeed,10001 to 25000,Post Graduate,2,8e59b4ce,962cd56b,560070,Yes,Positive,Yes
+21,Female,Single,Student,No Income,Post Graduate,3,8e59b4ce,962cd56b,560070,Yes,Positive,Yes
+24,Male,Single,Student,No Income,Post Graduate,2,e9abb770,43b08bee,560075,Yes,Positive,Yes
+26,Female,Married,Self Employeed,10001 to 25000,Graduate,5,e9abb770,43b08bee,560075,No,Negative ,No
+32,Male,Married,Employee,25001 to 50000,Graduate,3,e9abb770,43b08bee,560075,Yes,Positive,Yes
+29,Male,Single,Self Employeed,More than 50000,Graduate,6,9593f3fb,6b6c32cb,560076,Yes,Positive,Yes
+21,Male,Single,Student,No Income,Graduate,5,9ead8d41,719501d1,560038,Yes,Positive,Yes
+24,Female,Single,Self Employeed,25001 to 50000,Post Graduate,3,a736df38,2b8c5288,560080,No,Negative ,No
+26,Male,Prefer not to say,Self Employeed,More than 50000,Post Graduate,2,a736df38,2b8c5288,560080,Yes,Positive,Yes
+21,Male,Married,Employee,More than 50000,Ph.D,3,6ca4c684,5099cdee,560085,Yes,Positive,Yes
+29,Male,Single,Employee,25001 to 50000,Graduate,3,ee25b821,ed5d8f40,560092,No,Negative ,No
+22,Male,Single,Student,No Income,Graduate,3,87050ad8,db1f11a7,560096,Yes,Positive,Yes
+24,Male,Single,Student,No Income,Graduate,2,808e3a4c,a6cdf8a3,560027,Yes,Positive,Yes
+27,Male,Married,Employee,25001 to 50000,Graduate,2,9593f3fb,6b6c32cb,560076,Yes,Positive,Yes
+23,Female,Single,Student,No Income,Post Graduate,3,3cd4528b,efa85c93,560095,No,Positive,No
+32,Male,Married,Employee,More than 50000,Post Graduate,6,3cd4528b,efa85c93,560095,Yes,Positive,Yes
+22,Female,Single,Student,No Income,Graduate,2,3cd4528b,efa85c93,560095,Yes,Positive,Yes
+22,Female,Single,Employee,25001 to 50000,Graduate,4,9593f3fb,6b6c32cb,560076,Yes,Positive,Yes
+26,Male,Married,Employee,More than 50000,Graduate,4,9faae012,a18ddc3a,560036,Yes,Positive,Yes
+25,Female,Single,Student,No Income,Ph.D,3,9faae012,a18ddc3a,560036,Yes,Positive,Yes
+20,Male,Single,Student,No Income,Graduate,2,792431cc,bc8550d7,560034,Yes,Positive,Yes
+29,Male,Married,Employee,25001 to 50000,Graduate,4,792431cc,bc8550d7,560034,No,Negative ,No
+23,Female,Single,Student,No Income,Graduate,1,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+25,Male,Single,Self Employeed,More than 50000,Graduate,2,9ead8d41,719501d1,560038,Yes,Positive,Yes
+29,Female,Married,Employee,25001 to 50000,Graduate,4,9ead8d41,719501d1,560038,No,Negative ,No
+27,Male,Married,Self Employeed,25001 to 50000,Graduate,6,26ae0d95,e9d95b73,560041,No,Positive,No
+25,Male,Single,Self Employeed,10001 to 25000,Graduate,3,e89abcd9,b8acef3e,560043,Yes,Positive,Yes
+21,Male,Single,Student,No Income,Graduate,2,a995040e,079f99d5,560046,No,Negative ,No
+23,Male,Single,Student,No Income,Graduate,3,be7d102a,a7ad2f72,560049,Yes,Positive,Yes
+24,Female,Single,Employee,10001 to 25000,Post Graduate,4,11dbb29f,02efb481,560011,Yes,Positive,Yes
+22,Male,Married,Self Employeed,10001 to 25000,School,3,70516ef9,cff8dd39,560008,Yes,Negative ,Yes
+28,Male,Married,Employee,25001 to 50000,Post Graduate,5,ebbcef5c,4b7c2c47,560045,Yes,Positive,Yes
+26,Male,Single,Employee,10001 to 25000,Graduate,2,26ae0d95,e9d95b73,560041,No,Negative ,No
+22,Female,Single,Employee,25001 to 50000,Graduate,4,9593f3fb,6b6c32cb,560076,Yes,Positive,Yes
+26,Male,Married,Employee,More than 50000,Graduate,4,9faae012,a18ddc3a,560036,Yes,Positive,Yes
+25,Female,Single,Student,No Income,Ph.D,3,9faae012,a18ddc3a,560036,Yes,Positive,Yes
+20,Male,Single,Student,No Income,Graduate,2,792431cc,bc8550d7,560034,Yes,Positive,Yes
+29,Male,Married,Employee,25001 to 50000,Graduate,4,792431cc,bc8550d7,560034,No,Negative ,No
+23,Female,Single,Student,No Income,Graduate,1,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+25,Male,Single,Self Employeed,More than 50000,Graduate,2,9ead8d41,719501d1,560038,Yes,Positive,Yes
+29,Female,Married,Employee,25001 to 50000,Graduate,4,9ead8d41,719501d1,560038,No,Positive,No
+27,Male,Married,Self Employeed,25001 to 50000,Graduate,6,26ae0d95,e9d95b73,560041,No,Positive,No
+25,Male,Single,Self Employeed,10001 to 25000,Graduate,3,e89abcd9,b8acef3e,560043,Yes,Positive,Yes
+21,Male,Single,Student,No Income,Graduate,2,a995040e,079f99d5,560046,No,Positive,No
+24,Male,Single,Student,No Income,Post Graduate,2,e9abb770,43b08bee,560075,Yes,Positive,Yes
+26,Female,Married,Self Employeed,10001 to 25000,Graduate,5,e9abb770,43b08bee,560075,No,Negative ,No
+32,Male,Married,Employee,25001 to 50000,Graduate,3,e9abb770,43b08bee,560075,Yes,Positive,Yes
+29,Male,Single,Self Employeed,More than 50000,Graduate,6,9593f3fb,6b6c32cb,560076,Yes,Positive,Yes
+21,Male,Single,Student,No Income,Graduate,5,9ead8d41,719501d1,560038,Yes,Positive,Yes
+24,Female,Single,Self Employeed,25001 to 50000,Post Graduate,3,a736df38,2b8c5288,560080,No,Negative ,No
+26,Male,Prefer not to say,Self Employeed,More than 50000,Post Graduate,2,a736df38,2b8c5288,560080,Yes,Positive,Yes
+31,Male,Married,Employee,More than 50000,Ph.D,3,6ca4c684,5099cdee,560085,Yes,Positive,Yes
+29,Male,Single,Employee,25001 to 50000,Graduate,3,ee25b821,ed5d8f40,560092,No,Negative ,No
+22,Male,Single,Student,No Income,Graduate,3,87050ad8,db1f11a7,560096,Yes,Positive,Yes
+24,Male,Single,Student,No Income,Graduate,2,808e3a4c,a6cdf8a3,560027,Yes,Positive,Yes
+27,Male,Married,Employee,25001 to 50000,Graduate,2,9593f3fb,6b6c32cb,560076,Yes,Positive,Yes
+23,Female,Single,Student,No Income,Post Graduate,3,3cd4528b,efa85c93,560095,No,Positive,No
+30,Male,Married,Employee,More than 50000,Post Graduate,6,3cd4528b,efa85c93,560095,Yes,Positive,Yes
+22,Female,Single,Student,No Income,Graduate,2,3cd4528b,efa85c93,560095,Yes,Positive,Yes
+28,Male,Married,Employee,25001 to 50000,Graduate,3,3cd4528b,efa85c93,560095,Yes,Positive,Yes
+23,Female,Single,Student,No Income,Post Graduate,2,87050ad8,db1f11a7,560096,Yes,Positive,Yes
+30,Male,Married,Self Employeed,More than 50000,Graduate,1,78e180c5,6a5e1bc0,560097,No,Negative ,No
+21,Male,Single,Student,No Income,Graduate,3,ee25b821,ed5d8f40,560092,Yes,Negative ,Yes
+26,Female,Married,Employee,Below Rs.10000,Graduate,6,ffe8446e,c26efa95,560093,No,Negative ,No
+25,Male,Single,Self Employeed,More than 50000,School,3,ffe8446e,c26efa95,560093,Yes,Positive,Yes
+31,Male,Prefer not to say,Employee,Below Rs.10000,Graduate,1,84994198,4b1bc024,560091,No,Negative ,No
+23,Female,Single,Employee,25001 to 50000,Post Graduate,2,3d8dcea7,c3a4d639,560100,Yes,Positive,Yes
+22,Male,Single,Student,Below Rs.10000,Post Graduate,4,5d48f4cb,6ce5e58b,560010,Yes,Positive,Yes
+27,Female,Married,Employee,More than 50000,Post Graduate,2,6bc0f182,ec08ed8d,560103,Yes,Positive,Yes
+22,Male,Single,Student,No Income,Graduate,3,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+24,Female,Single,Student,No Income,Post Graduate,3,fb1f5167,55271476,560042,Yes,Positive,Yes
+23,Female,Single,Student,No Income,Post Graduate,2,4b78db40,5a529c09,560001,Yes,Positive,Yes
+23,Female,Single,Student,No Income,Post Graduate,4,dc1129e7,aa38426d,560048,Yes,Positive,Yes
+22,Female,Single,Student,No Income,Post Graduate,5,5d48f4cb,6ce5e58b,560010,Yes,Positive,Yes
+23,Male,Single,Student,Below Rs.10000,Post Graduate,2,d9b9bbbf,abe93489,560009,Yes,Positive,Yes
+23,Male,Single,Student,No Income,Post Graduate,5,f670f4af,8bbac575,560078,Yes,Positive,Yes
